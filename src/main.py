@@ -15,10 +15,7 @@ from llama_index.core.llama_dataset import LabelledRagDataExample
 load_dotenv()
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 
-# loads BAAI/bge-small-en
-# embed_model = HuggingFaceEmbedding()
 
-# loads BAAI/bge-small-en-v1.5
 
 nest_asyncio.apply()
 

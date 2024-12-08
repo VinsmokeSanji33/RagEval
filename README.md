@@ -76,7 +76,7 @@ hallucinated.
 
 ## Contribution
 
-Contributions are welcome! Feel free to open issues, submit pull requests, or suggest features.
+Contributions are welcome! Feel free to open issues, submit pull requests, or suggest features :).
 
 ## License
 
