@@ -13,7 +13,6 @@ class GuidelineScore:
 
     def get_score(self,query,response,contexts,indexs):
         for idx , (guideline, evaluator) in enumerate(zip(self.guidelines, self.evaluators)):
-            print("+++++++++++++++++++")
             if idx in indexs:
                 eval_result = evaluator.evaluate(
                     query=query,
